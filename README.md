@@ -13,8 +13,8 @@ requires keys, but this may change in the future.
 You're free to do whatever you want with this repo as long as it abides by the license, but just
 don't expect beautiful code.
 
-# Backend
+## Backend
 Deploy using `npm run start` in `backend`.
 
-# Frontend
+## Frontend
 Deploy using `npm run dev` in `frontend`.
